@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 nouveau fichier apres modification.
+=======
+nouveau fichier.
+enieme tentative.
+>>>>>>> Stashed changes
